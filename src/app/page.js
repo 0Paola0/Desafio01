@@ -1,7 +1,6 @@
 "use client";
 import React, { useState } from 'react';
 import ListaClases from './Componentes/ListaClases';
-import ReservaClase from './Componentes/ReservaClase';
 import ResumenReserva from './Componentes/ResumenReserva';
 import styles from './page.module.css';
 
